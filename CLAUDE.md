@@ -7,7 +7,7 @@ questions based on provided course materials.
 ## Tech Stack
 - Backend: Python + FastAPI
 - Frontend: React + Vite
-- LLM: OpenRouter
+- LLM: OpenRouter (qwen/qwen3.5-flash-02-23)
 - Vector Search: FAISS (Day 3)
 
 ## AI Coding Environment
@@ -23,6 +23,11 @@ questions based on provided course materials.
 - Commit messages use: type: description
 - Allowed commit types include feat, fix, docs, refactor and test
 - Review changes before committing
+
+## Current Scope
+- Day 1 currently contains Python command-line exercises
+- Do not create the FastAPI backend, React frontend, or FAISS integration
+  unless explicitly requested
 
 ## Do Not Modify
 - .env
