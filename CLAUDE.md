@@ -7,7 +7,7 @@ questions based on provided course materials.
 ## Tech Stack
 - Backend: Python + FastAPI
 - Frontend: React + Vite
-- LLM: OpenRouter (qwen/qwen3.5-flash-02-23)
+- LLM: OpenRouter (google/gemma-4-26b-a4b-it:free)
 - Vector Search: FAISS (Day 3)
 
 ## AI Coding Environment

@@ -17,7 +17,7 @@ from openai import OpenAI
 # Configuration
 # ---------------------------------------------------------------------------
 
-MODEL = "qwen/qwen3.5-flash-02-23"
+MODEL = "google/gemma-4-26b-a4b-it:free"
 TEMPERATURE = 0.0
 MISSING = "The text does not provide this information."
 

@@ -101,7 +101,7 @@ User uploads PDF (via CLI or web upload)
         │
         ▼
       [LLM]
-        │  OpenRouter: qwen/qwen3.5-flash-02-23
+        │  OpenRouter: google/gemma-4-26b-a4b-it:free
         ▼
   Answer with [Page X] citations
 ```

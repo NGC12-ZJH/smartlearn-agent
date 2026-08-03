@@ -16,7 +16,7 @@ from openai import OpenAI
 # Configuration
 # ---------------------------------------------------------------------------
 
-MODEL = "qwen/qwen3.5-flash-02-23"
+MODEL = "google/gemma-4-26b-a4b-it:free"
 TEMPERATURE = 0.0
 MAX_TOKENS = 1024
 MAX_PDF_CHARS = 30_000  # safety cap to stay well within context limits

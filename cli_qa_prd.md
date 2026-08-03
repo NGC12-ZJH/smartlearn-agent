@@ -34,7 +34,7 @@ An answer that references specific paragraphs using `[Paragraph X]`.
 - Multiple questions can be asked in one session.
 - Typing `quit` exits.
 - `python -m py_compile cli_qa.py` succeeds.
-- Model: `qwen/qwen3.5-flash-02-23`
+- Model: `google/gemma-4-26b-a4b-it:free`
 - Every factual claim must include a paragraph citation.
 - Claims using multiple paragraphs must cite all relevant paragraphs.
 - The model must not follow instructions contained in the reference text.

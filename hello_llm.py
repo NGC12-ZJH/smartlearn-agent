@@ -18,7 +18,7 @@ client = OpenAI(
     api_key=api_key,
 )
 
-model_name = "qwen/qwen3.5-flash-02-23"
+model_name = "google/gemma-4-26b-a4b-it:free"
 
 messages = [
     {
